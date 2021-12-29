@@ -11,5 +11,5 @@
 * [数据密集型应用系统设计](books/shu-ju-mi-ji-xing-ying-yong-xi-tong-she-ji.md)
 * [软件架构的艺术](books/ruan-jian-jia-gou-de-yi-zhu.md)
 * [企业应用架构模式](books/qi-ye-ying-yong-jia-gou-mo-shi.md)
-* 架构之美
+* [架构之美](books/jia-gou-zhi-mei.md)
 
