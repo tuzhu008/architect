@@ -19,4 +19,5 @@
 * [领域驱动设计 ](books/ling-yu-qu-dong-she-ji.md)
 * [Thinking Architecturally](books/thinking-architecturally.md)
 * [面向模式的软件架构](mian-xiang-mo-shi-de-ruan-jian-jia-gou.md)
+* [linux/unix设计思想](linuxunixshe-ji-si-xiang.md)
 
