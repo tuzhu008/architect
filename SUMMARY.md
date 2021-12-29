@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [AQS](chapter1.md)
+* 架构之美
 
 ## Books
 
