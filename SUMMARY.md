@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * [AQS](chapter1.md)
-* [设计原本](she-ji-yuan-ben.md)
 
 ## Books
 
+* [设计原本](she-ji-yuan-ben.md)
 * [从零开始学架构](books/cong-ling-kai-shi-xue-jia-gou.md)
 * [架构整洁之道](books/jia-gou-zheng-ji-zhi-dao.md)
 * [架构师修炼之道](books/jia-gou-shi-xiu-lian-zhi-dao.md)
