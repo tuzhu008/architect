@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [AQS](chapter1.md)
+* [面向模式的软件架构](mian-xiang-mo-shi-de-ruan-jian-jia-gou.md)
 
 ## Books
 
