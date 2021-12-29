@@ -26,5 +26,5 @@
 
 ## 概念
 
-* [关于架构](gai-nian/guan-yu-jia-gou.md)
+* [关于架构](notions/guan-yu-jia-gou.md)
 
