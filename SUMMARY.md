@@ -24,3 +24,7 @@
 * [系统架构:复杂系统的产品设计与开发](books/xi-tong-jia-67843a-fu-za-xi-tong-de-chan-pin-she-ji-yu-kai-fa.md)
 * [others](books/others.md)
 
+## 概念
+
+* [关于架构](gai-nian/guan-yu-jia-gou.md)
+
