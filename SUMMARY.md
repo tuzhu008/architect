@@ -21,4 +21,5 @@
 * [Thinking Architecturally](books/thinking-architecturally.md)
 * [面向模式的软件架构](mian-xiang-mo-shi-de-ruan-jian-jia-gou.md)
 * [linux/unix设计思想](linuxunixshe-ji-si-xiang.md)
+* [系统架构:复杂系统的产品设计与开发](xi-tong-jia-67843a-fu-za-xi-tong-de-chan-pin-she-ji-yu-kai-fa.md)
 
