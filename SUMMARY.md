@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [AQS](chapter1.md)
+* [设计原本](she-ji-yuan-ben.md)
 
 ## Books
 
