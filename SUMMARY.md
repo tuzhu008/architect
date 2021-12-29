@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [AQS](chapter1.md)
-* [面向模式的软件架构](mian-xiang-mo-shi-de-ruan-jian-jia-gou.md)
 
 ## Books
 
@@ -18,4 +17,5 @@
 * [大型网站技术架构](books/da-xing-wang-zhan-ji-zhu-jia-gou.md)
 * [领域驱动设计 ](books/ling-yu-qu-dong-she-ji.md)
 * [Thinking Architecturally](books/thinking-architecturally.md)
+* [面向模式的软件架构](mian-xiang-mo-shi-de-ruan-jian-jia-gou.md)
 
