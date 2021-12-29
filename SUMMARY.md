@@ -5,8 +5,8 @@
 
 ## Books
 
-* [重构](zhong-gou.md)
-* [设计原本](she-ji-yuan-ben.md)
+* [重构](books/zhong-gou.md)
+* [设计原本](books/she-ji-yuan-ben.md)
 * [从零开始学架构](books/cong-ling-kai-shi-xue-jia-gou.md)
 * [架构整洁之道](books/jia-gou-zheng-ji-zhi-dao.md)
 * [架构师修炼之道](books/jia-gou-shi-xiu-lian-zhi-dao.md)
@@ -19,7 +19,7 @@
 * [大型网站技术架构](books/da-xing-wang-zhan-ji-zhu-jia-gou.md)
 * [领域驱动设计 ](books/ling-yu-qu-dong-she-ji.md)
 * [Thinking Architecturally](books/thinking-architecturally.md)
-* [面向模式的软件架构](mian-xiang-mo-shi-de-ruan-jian-jia-gou.md)
-* [linux/unix设计思想](linuxunixshe-ji-si-xiang.md)
-* [系统架构:复杂系统的产品设计与开发](xi-tong-jia-67843a-fu-za-xi-tong-de-chan-pin-she-ji-yu-kai-fa.md)
+* [面向模式的软件架构](books/mian-xiang-mo-shi-de-ruan-jian-jia-gou.md)
+* [linux/unix设计思想](books/linuxunixshe-ji-si-xiang.md)
+* [系统架构:复杂系统的产品设计与开发](books/xi-tong-jia-67843a-fu-za-xi-tong-de-chan-pin-she-ji-yu-kai-fa.md)
 
