@@ -12,4 +12,5 @@
 * [软件架构的艺术](books/ruan-jian-jia-gou-de-yi-zhu.md)
 * [企业应用架构模式](books/qi-ye-ying-yong-jia-gou-mo-shi.md)
 * [架构之美](books/jia-gou-zhi-mei.md)
+* [架构即未来](books/jia-gou-ji-wei-lai.md)
 
