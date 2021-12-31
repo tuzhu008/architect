@@ -1,6 +1,6 @@
 # 关于架构
 
-> [维基百科](https://en.jinzhao.wiki/wiki/Software_architecture)：
+> [维基百科](https://en.wikipedia.org/wiki/Software_architecture)：
 >
 > Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. Each structure comprises software elements, relations among them, and properties of both elements and relations.\[1\] The architecture of a software system is a metaphor, analogous to the architecture of a building.\[2\] It functions as a blueprint for the system and the developing project, laying out the tasks necessary to be executed by the design teams.\[3\]
 >
