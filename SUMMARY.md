@@ -27,4 +27,5 @@
 ## 概念
 
 * [关于架构](notions/guan-yu-jia-gou.md)
+* [耦合性](notions/ou-he-xing.md)
 
