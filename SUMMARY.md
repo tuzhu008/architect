@@ -29,4 +29,5 @@
 * [关于架构](notions/guan-yu-jia-gou.md)
 * [耦合性](notions/ou-he-xing.md)
 * [高性能](notions/gao-xing-neng.md)
+* [高可用](notions/gao-ke-yong.md)
 
