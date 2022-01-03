@@ -16,13 +16,7 @@
 >
 > 将软件架构[文档化](https://zh.wikipedia.org/wiki/软件文档)有助于和[项目关系人](https://zh.wikipedia.org/w/index.php?title=專案關係人&action=edit&redlink=1)之间的沟通，在高层设计时就可以提早进行决策，也可以在各项目之间复用设计组件[\[4\]](https://zh.wikipedia.org/wiki/软件架构#cite_note-SAP2-4):29–35。
 
-
-
-
-
 ## 架构设计的目的
 
-
-
-
+架构设计的主要目的是为了解决软件系统复杂度带来的问题。
 
