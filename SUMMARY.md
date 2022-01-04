@@ -31,4 +31,5 @@
 * [高性能](notions/gao-xing-neng.md)
 * [高可用](notions/gao-ke-yong.md)
 * [可维护性](notions/ke-wei-hu-xing.md)
+* [可扩展性](notions/ke-kuo-zhan-xing.md)
 
