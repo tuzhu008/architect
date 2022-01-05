@@ -32,4 +32,6 @@
 * [高可用](notions/gao-ke-yong.md)
 * [可维护性](notions/ke-wei-hu-xing.md)
 * [可扩展性](notions/ke-kuo-zhan-xing.md)
+* 低成本
+* 安全性
 
