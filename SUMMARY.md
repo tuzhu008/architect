@@ -34,4 +34,5 @@
 * [可扩展性](notions/ke-kuo-zhan-xing.md)
 * 低成本
 * 安全性
+* 规模
 
