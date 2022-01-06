@@ -22,6 +22,7 @@
 * [面向模式的软件架构](books/mian-xiang-mo-shi-de-ruan-jian-jia-gou.md)
 * [linux/unix设计思想](books/linuxunixshe-ji-si-xiang.md)
 * [系统架构:复杂系统的产品设计与开发](books/xi-tong-jia-67843a-fu-za-xi-tong-de-chan-pin-she-ji-yu-kai-fa.md)
+* [UNIX 编程艺术](books/unix-bian-cheng-yi-zhu.md)
 * [others](books/others.md)
 
 ## 概念
