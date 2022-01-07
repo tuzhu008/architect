@@ -34,9 +34,10 @@
 * [耦合性](notions/ou-he-xing.md)
 * [高性能](notions/gao-xing-neng.md)
 * [高可用](notions/gao-ke-yong.md)
+* 高容量
 * [可维护性](notions/ke-wei-hu-xing.md)
 * [可扩展性](notions/ke-kuo-zhan-xing.md)
 * 低成本
 * 安全性
-* 规模
+* 高容量
 
