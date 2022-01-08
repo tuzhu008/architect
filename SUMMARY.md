@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [AQS](chapter1.md)
 * [设计原则](she-ji-yuan-ze.md)
+* [架构师](jia-gou-shi.md)
 
 ## Books
 
